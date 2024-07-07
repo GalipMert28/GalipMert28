@@ -1,0 +1,4 @@
+-Öğrenciyim
+-Python,C++,Assembly,Java
+-İşletim Sistemi Geliştiriyorum
+-Ne Bakıyon Buraya mk
