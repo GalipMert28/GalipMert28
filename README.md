@@ -1,4 +1,4 @@
-# BEN KIMIM(ENGLISH OR SPANISH?)
+# BEN KIMIM
 
 
 
@@ -6,4 +6,4 @@
 -Öğrenciyim
 -Python,C++,Assembly,Java Dilleri
 -İşletim Sistemi Geliştiriyorum
--Ne Bakıyon Buraya mk
+-4 Ay Aktif Değilim Maalesef
