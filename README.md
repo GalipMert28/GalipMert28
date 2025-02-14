@@ -1,9 +1,4 @@
 # BEN KIMIM
 
-
-
-
--Öğrenciyim
--Python,C++,Assembly,Java Dilleri
--İşletim Sistemi Geliştiriyorum
--4 Ay Aktif Değilim Maalesef
+# 13 yaşındayım,sadece bu kadar bilgi elde edebilirsin çünkü sadece bundan ibaretim
+![Uploading Ted_Kaczynski_2_(cropped).jpg…]()
