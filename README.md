@@ -1,5 +1,1 @@
-# Who am I
 
-* LamaX isminde x86/x86_64 bir işletim sistemi geliştiriyorum ve ilk versiyonu yayınlandı bile! Repolarımdan bulabilirsin.
-* I'm developing an x86/x86_64 operating system called LamaX, and the first version has already been released! You can find it in my repos
-* I know Assembly(NASM, FASM and emu8086 compilers), C, C++, Python, HTML, JS, CSS, C#
