@@ -2,8 +2,7 @@
 <h3 align="center">Turkish Reverse Engineer and Junior Full Stack Developer</h3>
 
 
-
-- 🔭 I’m currently working on **ORION TI-84 FIRMWARE RE**
+- 🔭 I'm currently working on **[ORION TI-84 FIRMWARE RE](https://github.com/GalipMert28/ORION-TI-84-2.00-FIRMWARE-PACKAGE-RE)**
 
 - 🌱 I’m currently learning **Z80,TASM and FASM Assembly,PCB Card Design**
 
