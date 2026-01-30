@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Galip Mert</h1>
 <h3 align="center">Turkish Reverse Engineer and Junior Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galipmert28&label=Profile%20views&color=0e75b6&style=flat" alt="galipmert28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galipmert28" alt="galipmert28" /></a> </p>
 
 - 🔭 I’m currently working on **ORION TI-84 FIRMWARE RE**
 
