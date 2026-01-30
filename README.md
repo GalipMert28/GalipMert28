@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 14 Years Old<br>I know PHP,Python,HTML,JS,CSS<br>I'm,PHP Backend and Frontend Developer.
+I'm 14 Years Old<br>I know PHP,Python,HTML,JS,CSS,C,Assembly(NASM,Z80,TASM)<br>I'm Full Stack Developer and Reverse Engineer.
 
 
 ## 🌐 Socials:
